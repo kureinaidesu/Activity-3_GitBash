@@ -12,5 +12,11 @@ print("March 22, 2002")
 print("Marinduque State College")       
 print("BSI/T")              
 print("2nd year")                          
-print("2A")                            
+print("2A") 
+
+print("Chess")
+print("Basketball")
+print("Playing Online Games")
+print("Cooking")
+print("Photography")
 
